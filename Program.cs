@@ -6,40 +6,41 @@ namespace _11_017_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Művelet: ");
+            Console.Write("Művelet: ");
             String muv = Console.ReadLine();
             int szam1 = int.Parse(muv.Split()[0]);
             int szam2 = int.Parse(muv.Split()[2]);
             Char mt = Char.Parse(muv.Split()[1]);
-           
-            
+
+
             switch (mt)
             {
                 case '+':
-                    kiir(muv);
+                    kiir(muv+" = "+osszead(szam1, szam2)); 
                     break;
                 case '-':
-                    kiir(muv);
+                    kiir(muv + " = " + kivonas(szam1, szam2));
                     break;
                 case '*':
-                    kiir(muv);
+                    kiir(muv + " = " + szorzas(szam1, szam2));
                     break;
                 case '/':
-                    kiir(muv);
+                    kiir(muv + " = " + osztas(szam1, szam2));
                     break;
                 default:
                     Console.WriteLine("Nincs ilyen művelet.");
                     break;
 
             }
-         
+            Console.ReadLine();
+
         }
         static void kiir(String i)
         {
-            Console.WriteLine(i);
+            Console.Write(i);
         }
-            
-            
+
+
         static int osszead(int a, int b)
         {
             return a + b;

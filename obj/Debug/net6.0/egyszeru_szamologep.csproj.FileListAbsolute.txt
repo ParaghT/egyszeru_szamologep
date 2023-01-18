@@ -1,0 +1,15 @@
+C:\Users\parag\OneDrive\Asztali gép\MEGA\c#\egyszeru_szamologep\egyszeru_szamologep\bin\Debug\net6.0\egyszeru_szamologep.exe
+C:\Users\parag\OneDrive\Asztali gép\MEGA\c#\egyszeru_szamologep\egyszeru_szamologep\bin\Debug\net6.0\egyszeru_szamologep.deps.json
+C:\Users\parag\OneDrive\Asztali gép\MEGA\c#\egyszeru_szamologep\egyszeru_szamologep\bin\Debug\net6.0\egyszeru_szamologep.runtimeconfig.json
+C:\Users\parag\OneDrive\Asztali gép\MEGA\c#\egyszeru_szamologep\egyszeru_szamologep\bin\Debug\net6.0\egyszeru_szamologep.dll
+C:\Users\parag\OneDrive\Asztali gép\MEGA\c#\egyszeru_szamologep\egyszeru_szamologep\bin\Debug\net6.0\egyszeru_szamologep.pdb
+C:\Users\parag\OneDrive\Asztali gép\MEGA\c#\egyszeru_szamologep\egyszeru_szamologep\obj\Debug\net6.0\egyszeru_szamologep.csproj.AssemblyReference.cache
+C:\Users\parag\OneDrive\Asztali gép\MEGA\c#\egyszeru_szamologep\egyszeru_szamologep\obj\Debug\net6.0\egyszeru_szamologep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parag\OneDrive\Asztali gép\MEGA\c#\egyszeru_szamologep\egyszeru_szamologep\obj\Debug\net6.0\egyszeru_szamologep.AssemblyInfoInputs.cache
+C:\Users\parag\OneDrive\Asztali gép\MEGA\c#\egyszeru_szamologep\egyszeru_szamologep\obj\Debug\net6.0\egyszeru_szamologep.AssemblyInfo.cs
+C:\Users\parag\OneDrive\Asztali gép\MEGA\c#\egyszeru_szamologep\egyszeru_szamologep\obj\Debug\net6.0\egyszeru_szamologep.csproj.CoreCompileInputs.cache
+C:\Users\parag\OneDrive\Asztali gép\MEGA\c#\egyszeru_szamologep\egyszeru_szamologep\obj\Debug\net6.0\egyszeru_szamologep.dll
+C:\Users\parag\OneDrive\Asztali gép\MEGA\c#\egyszeru_szamologep\egyszeru_szamologep\obj\Debug\net6.0\refint\egyszeru_szamologep.dll
+C:\Users\parag\OneDrive\Asztali gép\MEGA\c#\egyszeru_szamologep\egyszeru_szamologep\obj\Debug\net6.0\egyszeru_szamologep.pdb
+C:\Users\parag\OneDrive\Asztali gép\MEGA\c#\egyszeru_szamologep\egyszeru_szamologep\obj\Debug\net6.0\egyszeru_szamologep.genruntimeconfig.cache
+C:\Users\parag\OneDrive\Asztali gép\MEGA\c#\egyszeru_szamologep\egyszeru_szamologep\obj\Debug\net6.0\ref\egyszeru_szamologep.dll
